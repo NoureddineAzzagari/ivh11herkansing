@@ -8,6 +8,6 @@ public class Ivh11herkansingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Ivh11herkansingApplication.class, args);
-		System.out.println("Hasdgllo");
+		System.out.println("Hasdgwgllo");
 	}
 }
